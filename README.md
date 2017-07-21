@@ -1,1 +1,1 @@
-# This repository contain clue for the last task
+# This repository contain solution for the last task
